@@ -647,6 +647,6 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Author
 
-**Samyupolice**
+**Samyuktha Police**
 
 Data Science | Machine Learning | Predictive Analytics
